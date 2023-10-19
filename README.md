@@ -12,7 +12,7 @@ Log in and view user data
 🍗 Articles:
 View own product data,
 View other product data,
-Search for products,
+Search for products
 
 📃 Lists:
 View personal list data,
@@ -22,7 +22,7 @@ Modify lists,
 Delete lists,
 Add products to lists,
 Remove products from lists,
-Modify list quantities,
+Modify list quantities
 
 🛒 Cart:
 View products in your own cart,

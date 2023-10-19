@@ -10,29 +10,29 @@ This API, created with Node.js and Express, has been developed for a wholesale f
 Log in and view user data
 
 🍗 Articles:
-View own product data
-View other product data
-Search for products
+View own product data,
+View other product data,
+Search for products,
 
 📃 Lists:
-View personal list data
-View list of products
-Add lists
-Modify lists
-Delete lists
-Add products to lists
-Remove products from lists
-Modify list quantities
+View personal list data,
+View list of products,
+Add lists,
+Modify lists,
+Delete lists,
+Add products to lists,
+Remove products from lists,
+Modify list quantities,
 
 🛒 Cart:
-View products in your own cart
-Add products to the cart
-Delete products from the cart
+View products in your own cart,
+Add products to the cart,
+Delete products from the cart,
 Modify cart quantities
 
 📬 Orders:
-Create orders
-View individual orders
+Create orders,
+View individual orders,
 View order signatures
 
 ## Deployment

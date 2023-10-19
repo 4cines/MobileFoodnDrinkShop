@@ -1,6 +1,5 @@
 # ShopAppMobile-backend
-<a href="https://nodejs.org" rel="nofollow"> <img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="max-width: 100%;"> </a>  
-<a href="https://expressjs.com" rel="nofollow"> <img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" style="max-width: 100%;"> </a>
+<a href="https://nodejs.org" rel="nofollow"> <img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="max-width: 100%;"> </a>  <a href="https://expressjs.com" rel="nofollow"> <img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" style="max-width: 100%;"> </a><a href="https://www.mysql.com/" rel="nofollow"> <img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="max-width: 100%;"> </a>
 
 ## Description
 This API, created with Node.js and Express, has been developed for a wholesale food and beverage company. In its database, it contains information about all products, customers, and other related information to manage orders. This app allows managing requests so that registered customers from the frontend can place orders and save lists of orders to be processed periodically. There is also a section where orders are recorded, and you can access their history.
@@ -44,3 +43,6 @@ View order signatures
 
 ## Extra comments
 The FTP files contain comments for security purposes. The host, user, and password are provided as examples but are not operational.
+
+## Related projects
+[ShopAppMobile-frontend](https://github.com/4cines/ShopAppMobile-frontend)

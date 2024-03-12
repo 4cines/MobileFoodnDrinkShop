@@ -44,5 +44,12 @@ View order signatures
 ## Extra comments
 The FTP files contain comments for security purposes. The host, user, and password are provided as examples but are not operational.
 
+## Media
+
+
+https://github.com/4cines/ShopAppMobile-backend/assets/106542037/3492b2f4-d299-48d2-85d7-7fb353c86526
+
+
+
 ## Related projects
 [ShopAppMobile-frontend](https://github.com/4cines/ShopAppMobile-frontend)
